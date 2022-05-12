@@ -11,7 +11,7 @@ public class Main {
         System.out.println("for Home work");
     }
     public static void conflictMethod () {
-        System.out.println("conflict messsage");
+        System.out.println("different way");
         System.out.println("again");
     }
 }
