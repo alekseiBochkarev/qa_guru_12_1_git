@@ -12,5 +12,6 @@ public class Main {
     }
     public static void conflictMethod () {
         System.out.println("conflict messsage");
+        System.out.println("again");
     }
 }
