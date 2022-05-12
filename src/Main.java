@@ -3,5 +3,6 @@ public class Main {
         System.out.println("My first text");
         System.out.println("QA GURU");
         System.out.println("Another");
+        System.out.println("slow branch");
     }
 }
