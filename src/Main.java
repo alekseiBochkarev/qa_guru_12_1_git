@@ -8,6 +8,7 @@ public class Main {
     
     public static void another () {
         System.out.println("ANOTHER METHOD MY");
+        System.out.println("for Home work");
     }
     public static void conflictMethod () {
         System.out.println("conflict messsage");
