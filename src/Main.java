@@ -9,9 +9,11 @@ public class Main {
     public static void another () {
         System.out.println("ANOTHER METHOD MY");
         System.out.println("for Home work");
+        System.out.println("try again");
     }
     public static void conflictMethod () {
         System.out.println("different way");
         System.out.println("again");
+        System.out.println("again on Github");
     }
 }
