@@ -7,6 +7,6 @@ public class Main {
     }
     
     public static void another () {
-        System.out.println("My first github text");
+        System.out.println("ANOTHER METHOD MY");
     }
 }
