@@ -12,6 +12,6 @@ public class Main {
     }
     public static void conflictMethod () {
         System.out.println("different way");
-        System.out.println("again");
+        System.out.println("again111");
     }
 }
