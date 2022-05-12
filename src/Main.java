@@ -4,4 +4,8 @@ public class Main {
         System.out.println("QA GURU");
         System.out.println("Another");
     }
+    
+    public static void another () {
+        System.out.println("My first github text");
+    }
 }
