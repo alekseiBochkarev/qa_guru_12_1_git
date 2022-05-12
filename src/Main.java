@@ -9,4 +9,7 @@ public class Main {
     public static void another () {
         System.out.println("ANOTHER METHOD MY");
     }
+    public static void conflictMethod () {
+        System.out.println("conflict messsage");
+    }
 }
